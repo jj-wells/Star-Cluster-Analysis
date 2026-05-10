@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Generated figure output
+figures_*/
+
+# External licensed software
+pyUPMASK-main/
+
+isochrones/
+metric_trials/
+MST/

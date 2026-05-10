@@ -1,0 +1,10 @@
+astropy
+astroquery
+jupyterlab
+matplotlib
+numba
+numpy
+pandas
+requests
+scikit-learn
+scipy
